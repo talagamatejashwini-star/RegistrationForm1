@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Form</title>
+</head>
+<body>
+
+    <h2>Registration Form</h2>
+
+    <form>
+        First Name:
+        <input type="text" placeholder="Enter first name">
+        <br><br>
+
+        Last Name:
+        <input type="text" placeholder="Enter last name">
+        <br><br>
+
+        Email:
+        <input type="email" placeholder="Enter email">
+        <br><br>
+
+        Password:
+        <input type="password" placeholder="Enter password">
+        <br><br>
+
+        <button type="button" onclick="alert('Registration Successfully!')">
+            Register
+        </button>
+    </form>
+
+</body>
+</html>
